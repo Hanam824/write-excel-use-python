@@ -1,0 +1,4 @@
+[submodule "xlsxwriter"]
+	path = xlsxwriter
+	url = https://github.com/jmcnamara/XlsxWriter
+	shallow = true
